@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @xc0d312
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋, edwin cortez
+#### I am an enthusiastic learner of programming
+![I am an enthusiastic learner of programming]
 
-<!---
-xc0d312/xc0d312 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I love programming, solving problems, through algorithms, I have an intermediate level of js and css, I still manage well on the backend part using nodejs, I have extensive knowledge about linux, that is my strength, and I want to continue learning
+![screensht_22-09-06_23:44:31](https://user-images.githubusercontent.com/79074456/188798683-5e9bfd7e-bc8a-4b5c-bee5-19258b7de3c1.png)
+
+
+Skills:  JS / LINUX / NODEJS / HTML / CSS / C#
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
